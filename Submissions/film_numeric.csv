@@ -1,0 +1,2 @@
+"MIN of film_id","MAX of film_id","AVG of film_id","MIN of release_year","MAX of release_year","AVG of release_year","MIN of language_id","MAX of language_id","AVG of language_id","MIN of rental_duration","MAX of rental_duration","AVG of rental_duration","MIN of rental_rate","MAX of rental_rate","AVG of rental_rate","MIN of length","MAX of length","AVG of length"
+1,1000,500.5000000000000000,2006,2006,2006.0000000000000000,1,1,1.00000000000000000000,3,7,4.9850000000000000,0.99,4.99,2.9800000000000000,46,185,115.2720000000000000
